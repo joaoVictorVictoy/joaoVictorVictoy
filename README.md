@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: ...
--->
+--><h3 align="left">🚀💻 Tecnologias, Linguagens & Ferramentas:</h3>
+
+
+
+![Profile views](https://gpvc.arturio.dev/joaoVictorVictoy)
