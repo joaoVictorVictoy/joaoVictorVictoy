@@ -16,7 +16,7 @@ class Skills extends Developer {
   language = ['JavaScript'];
   frontEnd = ['HTML5','CSS3','React','Axios','styled-components','material-ui','chakra-ui'];
   backEnd = ['TypeScript','NodeJs','Knex','Express','MySQL','Jest'];
-  tools = ['Heroku','Postman','Git','npm];
+  tools = ['Heroku','Postman','Git','npm'];
 }
 ```
 
