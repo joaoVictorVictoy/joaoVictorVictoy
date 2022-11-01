@@ -1,7 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=262C66&height=150&section=header"/>
 
-
-<h1 align="center">Hello <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="30" height="30"> </h1>
+ 
+<h1 align="center         ">Hello <img  src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="40" height="40"> 
+  </h1>
+<div align="center            ">
+   <img src="https://gpvc.arturio.dev/joaoVictorVictoy" alt="profile views"/>
+        </div>
 
 ```Typescript
 import Developer from 'JoãoVictorVictoy';
@@ -40,7 +44,7 @@ class Skills extends Developer {
 </div>
 
 
-![Profile views](https://gpvc.arturio.dev/joaoVictorVictoy)
+
 <div align="center">
 <h3>Me adicione no Linkedin para mais informações:</h3>
 <a href="mailto:joaovvag@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-262C46?style=for-the-badge&logo=gmail&logoColor=white"</a>
